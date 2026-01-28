@@ -1,0 +1,10 @@
+code {
+  background-color: var(--main-bg-faint-color);
+  border-radius: var(--border-radius);
+  padding: 0;
+}
+
+pre {
+  background-color: var(--main-bg-faint-color);
+  padding: 0.5rem 0.5rem;
+}
