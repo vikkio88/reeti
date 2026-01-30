@@ -4,8 +4,9 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "dev:app": "bun tauri dev",
+    "dev:web": "vite",
+    "compile": "bun tauri build",
+    "dev": "bun tauri dev",
     "build": "vite build",
     "preview": "vite preview",
     "tauri": "tauri",

@@ -8,7 +8,7 @@
   let { children }: Props = $props();
 </script>
 
-<header class="f spb aic pd">
+<header class="f spb aic pd g">
   {#if children}
     {@render children()}
   {/if}

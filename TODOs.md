@@ -1,0 +1,8 @@
+- [ ] File editing
+    - [ ] Open
+    - [ ] Edit
+    - [ ] Save
+    - [ ] Linking
+- [ ] Command Palette
+- [ ] Images from local disk ([info](https://github.com/orgs/tauri-apps/discussions/7145))
+- [ ] Tags
